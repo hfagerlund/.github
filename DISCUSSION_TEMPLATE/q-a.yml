@@ -1,0 +1,7 @@
+title: "[Question and Answer] "
+labels: ["(Q&A)"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask questions about this project here for answers from project maintainers and/or the community

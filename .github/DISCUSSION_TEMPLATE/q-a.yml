@@ -5,3 +5,6 @@ body:
     attributes:
       value: |
         Ask questions about this project here for answers from project maintainers and/or the community
+  - type: textarea
+    attributes:
+      label: "What is your question?"

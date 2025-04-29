@@ -1,5 +1,5 @@
-title: "[Question and Answer] "
-labels: ["(Q&A)"]
+title: "Question "
+labels: ["(Question and Answer)"]
 body:
   - type: markdown
     attributes:
@@ -7,4 +7,4 @@ body:
         Ask questions about this project here for answers from project maintainers and/or the community
   - type: textarea
     attributes:
-      label: "What is your question?"
+      label: "My question is..."
